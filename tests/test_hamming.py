@@ -1,4 +1,4 @@
-from hexlet_python_package.haamming import hamming_weight
+from hexlet_python_package.1-task.hamming import hamming_weight
 
 def test_hamming():
     assert hamming_weight(0) == 0
