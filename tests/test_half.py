@@ -1,4 +1,4 @@
-from hexlet_python_package.half import half
+from half import half
 
 
 def test_half():

@@ -1,4 +1,4 @@
-from solution import is_continuous_sequence
+from 3-task.sequence import is_continuous_sequence
 
 
 def test_is_continuous_sequence():
